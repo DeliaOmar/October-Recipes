@@ -7,5 +7,4 @@ cilantro
 ### Measurments
 
 ## Directions
-X
-^X
+You should mash the avocado very well.
